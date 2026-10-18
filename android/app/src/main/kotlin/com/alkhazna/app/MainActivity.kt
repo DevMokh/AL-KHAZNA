@@ -1,4 +1,4 @@
-package com.alkhazna.vault
+package com.alkhazna.app
 
 import android.os.Bundle
 import android.view.WindowManager
