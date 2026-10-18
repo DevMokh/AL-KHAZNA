@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace = "com.alkhazna.vault"
+    namespace = "com.alkhazna.app"
     compileSdk = 36
     ndkVersion = flutter.ndkVersion
 
@@ -37,7 +37,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.alkhazna.vault"
+        applicationId = "com.alkhazna.app"
         minSdk = 24
         targetSdk = 33
         versionCode = flutterVersionCode.toInteger()
